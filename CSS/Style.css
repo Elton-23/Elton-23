@@ -1,0 +1,135 @@
+body{
+ margin:0px;
+ font-size: 16px;
+ background-image: url(../Elton/IMG-20241027-WA0048.jpg);
+    }
+button {
+    color: aliceblue;
+   }
+
+   #Paragrafo {
+    text-align: center;
+    margin-top: 13%;
+   }
+
+#meio {
+    padding: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+#nome{
+   color: blue;
+}
+
+#a {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 20px;
+    width: 19%;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    margin: 2%;
+    background-color: white;
+   
+}
+
+#b{
+    color: white;
+    font-size: 1.5rem;
+
+}
+
+#a:active {
+    color: black;
+    background-color: black;
+}
+
+#a:hover {
+    color: black;
+    background-color: rgb(24, 23, 23);
+    
+   }
+
+   h3{
+    color:black;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 2rem;
+   }  
+   
+   h4{
+    font-size: 1.25rem;
+    background-color: rgb(61, 59, 59);
+    color: white;
+    padding: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 5px;
+   }
+   #zero {
+    border: 1px solid black;
+    background-color: black;
+    padding: 10px;
+
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+   }
+
+   #um {
+    border-radius:5px; 
+    color: black;
+    font-size: 1rem;
+    border-radius: 45px;
+    padding-top: 1%;
+    background-color: white;
+
+   }
+
+   #um:active{
+    color:white;
+    border-radius: 5px;
+    background-color: black;
+    border: 1px solid white;
+    box-shadow: 0px 1px 25px white;
+
+   }
+
+#Botao1{
+    text-decoration: none;
+    color: black;
+}
+
+#tudo{
+    background-color: rgb(61, 59, 59);
+    padding: 25px;
+    color: white;
+    border-radius: 10px;
+    margin: 50px;
+    margin-top: 15%;
+    text-align: center;
+
+
+}
+
+#Topo {
+    padding-top: 3%;
+    color: rgb(146, 146, 218);
+    text-align: center;
+
+}
+
+h3 {
+ color: black;
+}
+
+#E{
+   text-align: center;
+    color: rgb(146, 146, 218);
+}
+
+#Numero{
+    text-align: center;
+}
+
